@@ -29,7 +29,7 @@ Websites like Amazon and Shopify try hard to stop scrapers.
 
 ### 1. Set up the Tracker
 1.  Clone this repository:
-    `git clone https://github.com/YOUR-USERNAME/ecommerce-price-tracker.git`
+    `git clone https://github.com/mergen-web/ecommerce-price-tracker.git`
 2.  Navigate to the folder:
     `cd ecommerce-price-tracker`
 3.  Install the tools by running: 
